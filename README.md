@@ -37,7 +37,7 @@ tales como trabajo en equipo, organización, escucha activa, comunicación efect
   Para llevar a cabo el proyecto utilicé React y Redux en front-end, Sequelize, express y PostgreSql en back-end.
 
  #### » <a href="https://tupcideal.vercel.app/" > TuPcIdeal 🖥️🛍️ </a>
- Proyecto colaborativo realizado en el bootcamp SoyHenry <a href="videito">« Video »</a> 
+ Proyecto colaborativo realizado en el bootcamp SoyHenry <a href="https://www.youtube.com/watch?v=9tksOARYrIg">« Video »</a> 
  > Se trata de un *marketplace* de componentes de PC </br>
  > Algunas de mis contribuciones más destacadas son:
  > - Desarrollo de rutas en back-end
